@@ -1,5 +1,5 @@
 # Music-website 
-In this website, I have build a music player using HTML CSS and js. This music player will have all the features found in a typical music player. 
+In this website, A music player has been built using HTML CSS and js. This music player will have all the features found in a typical music player. 
 You will be able to add, play, pause and seek songs that have been added.
 To run this app simply click the below link,
 "https://music-website-q9he.onrender.com/"
